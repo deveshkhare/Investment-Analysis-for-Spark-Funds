@@ -1,2 +1,2 @@
-# Invest Analysis for Spark Funds
+# Investment Analysis for Spark Funds
  
